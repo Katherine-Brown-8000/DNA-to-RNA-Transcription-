@@ -1,0 +1,2 @@
+>DNA_to_RNA_example_sequence
+ATGCTTTTATCGATGC
